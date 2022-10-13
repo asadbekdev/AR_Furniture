@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_arcore_apps
 
 Flutter 2 Android ARCore Apps Development from Coding Cafe
@@ -32,3 +33,7 @@ paste links of course here when public.
 ## Flutter Android & iOS Deep Learning Sketch to Real Life Human Face Generator App
 
 - [Join Complete Course here, Please Click Here](https://www.udemy.com/course/build-drawing-to-real-life-generator-app-using-flutter/?referralCode=2B3114D7C89C0BEDBCF0)
+=======
+# AR_Furniture
+This application stands for showing 3D objects in Augmented Reality. 
+>>>>>>> 2483b8a832b64fac5e5cd6e2fa2a7da00b5fdd24
